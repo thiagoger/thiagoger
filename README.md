@@ -29,9 +29,9 @@ Before SaaS I spent 10+ years in project delivery and data at **Vale, Rede D'Or 
 | Project | What it is | Stack |
 |---------|------------|-------|
 | 🧪 **[synthetic-data-forge](https://github.com/thiagoger/synthetic-data-forge)** | Deterministic, referentially-intact synthetic datasets for demos, tests and ML, with zero dependencies | Python |
-| 🔌 **[mcp-server-starter](https://github.com/thiagoger/mcp-server-starter)** | Minimal Model Context Protocol server exposing typed tools any AI agent can call | Python, MCP, FastMCP |
-| 🎭 **[feature-checker](https://github.com/thiagoger/feature-checker)** | Playwright engine that validates product features with evidence capture and reporting | Python, Playwright |
-| 📡 **[slack-api-guide](https://github.com/thiagoger/slack-api-guide)** | Beginner-friendly guide to extracting Slack data with the official API | Python, Slack API |
+| 🔌 **[mcp-ai-agent-server](https://github.com/thiagoger/mcp-ai-agent-server)** | Model Context Protocol server that turns Python functions into tools any AI agent can call | Python, MCP, FastMCP |
+| 🎭 **[playwright-feature-validator](https://github.com/thiagoger/playwright-feature-validator)** | Logs in, walks every feature, captures evidence and alerts before a demo breaks | Python, Playwright |
+| 📡 **[slack-data-extraction-guide](https://github.com/thiagoger/slack-data-extraction-guide)** | End-to-end guide to pulling workspace data with the official Slack API | Python, Slack API |
 
 ### 🛠️ Tech Stack
 
