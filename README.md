@@ -28,8 +28,10 @@ Before SaaS I spent 10+ years in project delivery and data at **Vale, Rede D'Or 
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| 🧪 **[synthetic-data-forge](https://github.com/thiagoger/synthetic-data-forge)** | Deterministic, referentially-intact synthetic datasets for demos, tests and ML, with zero dependencies | Python |
+| 🤖 **[multi-agent-reviewer](https://github.com/thiagoger/multi-agent-reviewer)** | Runs many independent reviewer agents over your code and merges their findings | Python, multi-agent |
 | 🔌 **[mcp-ai-agent-server](https://github.com/thiagoger/mcp-ai-agent-server)** | Model Context Protocol server that turns Python functions into tools any AI agent can call | Python, MCP, FastMCP |
+| 🔎 **[semantic-search-lite](https://github.com/thiagoger/semantic-search-lite)** | The retrieval core of a RAG pipeline, with a pluggable embedder and zero dependencies | Python, RAG, embeddings |
+| 🧪 **[synthetic-data-forge](https://github.com/thiagoger/synthetic-data-forge)** | Deterministic, referentially-intact synthetic datasets for demos, tests and ML | Python, data |
 | 🎭 **[playwright-feature-validator](https://github.com/thiagoger/playwright-feature-validator)** | Logs in, walks every feature, captures evidence and alerts before a demo breaks | Python, Playwright |
 | 📡 **[slack-data-extraction-guide](https://github.com/thiagoger/slack-data-extraction-guide)** | End-to-end guide to pulling workspace data with the official Slack API | Python, Slack API |
 
