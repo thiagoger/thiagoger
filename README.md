@@ -32,6 +32,8 @@ Before SaaS I spent 10+ years in project delivery and data at **Vale, Rede D'Or 
 | 🔌 **[mcp-ai-agent-server](https://github.com/thiagoger/mcp-ai-agent-server)** | Model Context Protocol server that turns Python functions into tools any AI agent can call | Python, MCP, FastMCP |
 | 🔎 **[semantic-search-lite](https://github.com/thiagoger/semantic-search-lite)** | The retrieval core of a RAG pipeline, with a pluggable embedder and zero dependencies | Python, RAG, embeddings |
 | 🧪 **[synthetic-data-forge](https://github.com/thiagoger/synthetic-data-forge)** | Deterministic, referentially-intact synthetic datasets for demos, tests and ML | Python, data |
+| 🔗 **[activity-aggregator](https://github.com/thiagoger/activity-aggregator)** | Pull activity from many sources into one deduplicated, sorted timeline | Python, integration |
+| 📊 **[metrics-dashboard](https://github.com/thiagoger/metrics-dashboard)** | One JSON in, one self-contained HTML dashboard out (inline SVG, no JS framework) | Python, dataviz |
 | 🎭 **[playwright-feature-validator](https://github.com/thiagoger/playwright-feature-validator)** | Logs in, walks every feature, captures evidence and alerts before a demo breaks | Python, Playwright |
 | 📡 **[slack-data-extraction-guide](https://github.com/thiagoger/slack-data-extraction-guide)** | End-to-end guide to pulling workspace data with the official Slack API | Python, Slack API |
 
